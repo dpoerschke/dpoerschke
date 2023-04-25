@@ -1,6 +1,10 @@
-### Hi there 👋
+### Comming up 👋
 
 Visit our session "Utilizing Keycloak for SSO with Domino and Nomad Web (and others)" at the [Engage 2023](https://engage.ug/Engage2.nsf/Pages/session2023)
+
+### Other Links
+
+Visit my [blog](https://www.sit.de/dp-blog)
 
 <!--
 **dpoerschke/dpoerschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
