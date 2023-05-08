@@ -4,8 +4,8 @@ Visit our session "Utilizing Keycloak for SSO with Domino and Nomad Web (and oth
 
 ### Other Links
 
-Visit my [blog](https://www.sit.de/dp-blog)
-Visit our tools: [github.com/SIT-DE-DEVELOPERS](https://github.com/SIT-DE-DEVELOPERS)
+- Visit my [blog](https://www.sit.de/dp-blog)
+- Visit our tools: [github.com/SIT-DE-DEVELOPERS](https://github.com/SIT-DE-DEVELOPERS)
 
 <!--
 **dpoerschke/dpoerschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
