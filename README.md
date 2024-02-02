@@ -1,11 +1,11 @@
-### Comming up 👋
+"They always say time changes things, but you actually have to change them yourself."
+   
+   -- Andy Warhol
 
-Visit our session "Utilizing Keycloak for SSO with Domino and Nomad Web (and others)" at the [Engage 2023](https://engage.ug/Engage2.nsf/Pages/session2023)
+### Links
 
-### Other Links
-
-- Visit my [blog](https://www.sit.de/dp-blog)
-- Visit our tools: [github.com/SIT-DE-DEVELOPERS](https://github.com/SIT-DE-DEVELOPERS)
+- My (former) [blog](https://www.sit.de/dp-blog)
+- Some tools that I have developed or contributed to: [github.com/SIT-DE-DEVELOPERS](https://github.com/SIT-DE-DEVELOPERS)
 
 ### New achievements 😄
 
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Comming up 👋
 -->
