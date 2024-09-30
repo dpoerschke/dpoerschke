@@ -9,6 +9,7 @@
 
 ### New achievements 😄
 
+- Sep. 2024: New certificate: "TeleTrust Professional for Secure Software Engineering"
 - May, 2023: ['LFD121: Developing Secure Software' issued by The Linux Foundation](https://www.credly.com/badges/325a295c-f11c-410d-aa82-e4ae0e3611fd)
 
 <!--
